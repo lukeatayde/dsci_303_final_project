@@ -3,9 +3,11 @@
 This repo contains the source code for our Data Science 303 final project. A
 table of contents of the files can be found below:
 
-### data/
-Directory containing zip files of the data we used for modeling.
-Warning: This is a large zip file!!
+### Data URL
+The data used for this project can be found at:
+https://drive.google.com/drive/folders/1vSIMgDTmoLOxgZAkv31IkFLEgv6afh7r?usp=sharing
+
+Warning: These files are large. ~450MB when compressed
 
 ### notebooks/
 Directory containing jupyter notebooks used for modeling

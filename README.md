@@ -5,7 +5,7 @@ table of contents of the files can be found below:
 
 ### data/
 Directory containing zip files of the data we used for modeling.
-Warning: This is a large zip file.
+Warning: This is a large zip file!!
 
 ### notebooks/
 Directory containing jupyter notebooks used for modeling
@@ -26,4 +26,5 @@ Directory containing each jupyter notebooks converted to pdfs
 ### shape_files/
 Directory contains shape files used for plotting California maps
 
-#### final_report.pdf - Copy of the final report
+#### final_report.pdf
+Copy of the final report

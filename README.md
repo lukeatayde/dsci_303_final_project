@@ -21,3 +21,6 @@ Directory containing each jupyter notebooks converted to pdfs
     modeling_notebook_one.pdf
     neural_networks.pdf
     wildfires_and_weather.pdf
+
+
+#### final_report.pdf - Copy of the final report
